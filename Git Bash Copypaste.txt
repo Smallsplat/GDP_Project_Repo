@@ -1,0 +1,3 @@
+git config --global user.name "Jack Dibden"
+git config --global user.email "S5083071@bournemouth.ac.uk"
+cd "H:\Documents\2. Programming Fundamentals\Assignment_Project\Assignment_Project"
